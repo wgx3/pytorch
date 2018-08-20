@@ -1,0 +1,2864 @@
+(0, 113.68437194824219)
+Variable containing:
+ 113.6844
+[torch.FloatTensor of size 1]
+
+(1, 50.997920989990234)
+Variable containing:
+ 50.9979
+[torch.FloatTensor of size 1]
+
+(2, 23.08611297607422)
+Variable containing:
+ 23.0861
+[torch.FloatTensor of size 1]
+
+(3, 10.655061721801758)
+Variable containing:
+ 10.6551
+[torch.FloatTensor of size 1]
+
+(4, 5.115680694580078)
+Variable containing:
+ 5.1157
+[torch.FloatTensor of size 1]
+
+(5, 2.6443557739257812)
+Variable containing:
+ 2.6444
+[torch.FloatTensor of size 1]
+
+(6, 1.5389167070388794)
+Variable containing:
+ 1.5389
+[torch.FloatTensor of size 1]
+
+(7, 1.0416078567504883)
+Variable containing:
+ 1.0416
+[torch.FloatTensor of size 1]
+
+(8, 0.8150972723960876)
+Variable containing:
+ 0.8151
+[torch.FloatTensor of size 1]
+
+(9, 0.7092100977897644)
+Variable containing:
+ 0.7092
+[torch.FloatTensor of size 1]
+
+(10, 0.6570948362350464)
+Variable containing:
+ 0.6571
+[torch.FloatTensor of size 1]
+
+(11, 0.6289886236190796)
+Variable containing:
+ 0.6290
+[torch.FloatTensor of size 1]
+
+(12, 0.6116408109664917)
+Variable containing:
+ 0.6116
+[torch.FloatTensor of size 1]
+
+(13, 0.599151611328125)
+Variable containing:
+ 0.5992
+[torch.FloatTensor of size 1]
+
+(14, 0.5888944864273071)
+Variable containing:
+ 0.5889
+[torch.FloatTensor of size 1]
+
+(15, 0.5796982049942017)
+Variable containing:
+ 0.5797
+[torch.FloatTensor of size 1]
+
+(16, 0.5710407495498657)
+Variable containing:
+ 0.5710
+[torch.FloatTensor of size 1]
+
+(17, 0.5626885294914246)
+Variable containing:
+ 0.5627
+[torch.FloatTensor of size 1]
+
+(18, 0.5545374751091003)
+Variable containing:
+ 0.5545
+[torch.FloatTensor of size 1]
+
+(19, 0.5465391278266907)
+Variable containing:
+ 0.5465
+[torch.FloatTensor of size 1]
+
+(20, 0.5386712551116943)
+Variable containing:
+ 0.5387
+[torch.FloatTensor of size 1]
+
+(21, 0.5309245586395264)
+Variable containing:
+ 0.5309
+[torch.FloatTensor of size 1]
+
+(22, 0.523291826248169)
+Variable containing:
+ 0.5233
+[torch.FloatTensor of size 1]
+
+(23, 0.5157698392868042)
+Variable containing:
+ 0.5158
+[torch.FloatTensor of size 1]
+
+(24, 0.5083568096160889)
+Variable containing:
+ 0.5084
+[torch.FloatTensor of size 1]
+
+(25, 0.5010508894920349)
+Variable containing:
+ 0.5011
+[torch.FloatTensor of size 1]
+
+(26, 0.49384984374046326)
+Variable containing:
+ 0.4938
+[torch.FloatTensor of size 1]
+
+(27, 0.4867525100708008)
+Variable containing:
+ 0.4868
+[torch.FloatTensor of size 1]
+
+(28, 0.47975707054138184)
+Variable containing:
+ 0.4798
+[torch.FloatTensor of size 1]
+
+(29, 0.47286221385002136)
+Variable containing:
+ 0.4729
+[torch.FloatTensor of size 1]
+
+(30, 0.4660663604736328)
+Variable containing:
+ 0.4661
+[torch.FloatTensor of size 1]
+
+(31, 0.45936810970306396)
+Variable containing:
+ 0.4594
+[torch.FloatTensor of size 1]
+
+(32, 0.45276638865470886)
+Variable containing:
+ 0.4528
+[torch.FloatTensor of size 1]
+
+(33, 0.44625943899154663)
+Variable containing:
+ 0.4463
+[torch.FloatTensor of size 1]
+
+(34, 0.43984586000442505)
+Variable containing:
+ 0.4398
+[torch.FloatTensor of size 1]
+
+(35, 0.4335247576236725)
+Variable containing:
+ 0.4335
+[torch.FloatTensor of size 1]
+
+(36, 0.4272944927215576)
+Variable containing:
+ 0.4273
+[torch.FloatTensor of size 1]
+
+(37, 0.42115336656570435)
+Variable containing:
+ 0.4212
+[torch.FloatTensor of size 1]
+
+(38, 0.4151008129119873)
+Variable containing:
+ 0.4151
+[torch.FloatTensor of size 1]
+
+(39, 0.4091351628303528)
+Variable containing:
+ 0.4091
+[torch.FloatTensor of size 1]
+
+(40, 0.4032551050186157)
+Variable containing:
+ 0.4033
+[torch.FloatTensor of size 1]
+
+(41, 0.3974599838256836)
+Variable containing:
+ 0.3975
+[torch.FloatTensor of size 1]
+
+(42, 0.39174771308898926)
+Variable containing:
+ 0.3917
+[torch.FloatTensor of size 1]
+
+(43, 0.38611751794815063)
+Variable containing:
+ 0.3861
+[torch.FloatTensor of size 1]
+
+(44, 0.3805687725543976)
+Variable containing:
+ 0.3806
+[torch.FloatTensor of size 1]
+
+(45, 0.3750990927219391)
+Variable containing:
+ 0.3751
+[torch.FloatTensor of size 1]
+
+(46, 0.36970824003219604)
+Variable containing:
+ 0.3697
+[torch.FloatTensor of size 1]
+
+(47, 0.36439526081085205)
+Variable containing:
+ 0.3644
+[torch.FloatTensor of size 1]
+
+(48, 0.35915812849998474)
+Variable containing:
+ 0.3592
+[torch.FloatTensor of size 1]
+
+(49, 0.35399654507637024)
+Variable containing:
+ 0.3540
+[torch.FloatTensor of size 1]
+
+(50, 0.348908931016922)
+Variable containing:
+ 0.3489
+[torch.FloatTensor of size 1]
+
+(51, 0.34389469027519226)
+Variable containing:
+ 0.3439
+[torch.FloatTensor of size 1]
+
+(52, 0.33895236253738403)
+Variable containing:
+ 0.3390
+[torch.FloatTensor of size 1]
+
+(53, 0.33408123254776)
+Variable containing:
+ 0.3341
+[torch.FloatTensor of size 1]
+
+(54, 0.3292800784111023)
+Variable containing:
+ 0.3293
+[torch.FloatTensor of size 1]
+
+(55, 0.3245477080345154)
+Variable containing:
+ 0.3245
+[torch.FloatTensor of size 1]
+
+(56, 0.3198833465576172)
+Variable containing:
+ 0.3199
+[torch.FloatTensor of size 1]
+
+(57, 0.31528612971305847)
+Variable containing:
+ 0.3153
+[torch.FloatTensor of size 1]
+
+(58, 0.3107549250125885)
+Variable containing:
+ 0.3108
+[torch.FloatTensor of size 1]
+
+(59, 0.3062888979911804)
+Variable containing:
+ 0.3063
+[torch.FloatTensor of size 1]
+
+(60, 0.30188697576522827)
+Variable containing:
+ 0.3019
+[torch.FloatTensor of size 1]
+
+(61, 0.29754847288131714)
+Variable containing:
+ 0.2975
+[torch.FloatTensor of size 1]
+
+(62, 0.29327213764190674)
+Variable containing:
+ 0.2933
+[torch.FloatTensor of size 1]
+
+(63, 0.2890574336051941)
+Variable containing:
+ 0.2891
+[torch.FloatTensor of size 1]
+
+(64, 0.2849033772945404)
+Variable containing:
+ 0.2849
+[torch.FloatTensor of size 1]
+
+(65, 0.28080856800079346)
+Variable containing:
+ 0.2808
+[torch.FloatTensor of size 1]
+
+(66, 0.2767728567123413)
+Variable containing:
+ 0.2768
+[torch.FloatTensor of size 1]
+
+(67, 0.27279552817344666)
+Variable containing:
+ 0.2728
+[torch.FloatTensor of size 1]
+
+(68, 0.26887479424476624)
+Variable containing:
+ 0.2689
+[torch.FloatTensor of size 1]
+
+(69, 0.26501065492630005)
+Variable containing:
+ 0.2650
+[torch.FloatTensor of size 1]
+
+(70, 0.2612020969390869)
+Variable containing:
+ 0.2612
+[torch.FloatTensor of size 1]
+
+(71, 0.25744810700416565)
+Variable containing:
+ 0.2574
+[torch.FloatTensor of size 1]
+
+(72, 0.2537480592727661)
+Variable containing:
+ 0.2537
+[torch.FloatTensor of size 1]
+
+(73, 0.25010135769844055)
+Variable containing:
+ 0.2501
+[torch.FloatTensor of size 1]
+
+(74, 0.24650728702545166)
+Variable containing:
+ 0.2465
+[torch.FloatTensor of size 1]
+
+(75, 0.2429644763469696)
+Variable containing:
+ 0.2430
+[torch.FloatTensor of size 1]
+
+(76, 0.2394726574420929)
+Variable containing:
+ 0.2395
+[torch.FloatTensor of size 1]
+
+(77, 0.23603101074695587)
+Variable containing:
+ 0.2360
+[torch.FloatTensor of size 1]
+
+(78, 0.23263894021511078)
+Variable containing:
+ 0.2326
+[torch.FloatTensor of size 1]
+
+(79, 0.22929544746875763)
+Variable containing:
+ 0.2293
+[torch.FloatTensor of size 1]
+
+(80, 0.22600007057189941)
+Variable containing:
+ 0.2260
+[torch.FloatTensor of size 1]
+
+(81, 0.2227521538734436)
+Variable containing:
+ 0.2228
+[torch.FloatTensor of size 1]
+
+(82, 0.2195507436990738)
+Variable containing:
+ 0.2196
+[torch.FloatTensor of size 1]
+
+(83, 0.21639575064182281)
+Variable containing:
+ 0.2164
+[torch.FloatTensor of size 1]
+
+(84, 0.2132856547832489)
+Variable containing:
+ 0.2133
+[torch.FloatTensor of size 1]
+
+(85, 0.2102205455303192)
+Variable containing:
+ 0.2102
+[torch.FloatTensor of size 1]
+
+(86, 0.20719924569129944)
+Variable containing:
+ 0.2072
+[torch.FloatTensor of size 1]
+
+(87, 0.20422154664993286)
+Variable containing:
+ 0.2042
+[torch.FloatTensor of size 1]
+
+(88, 0.20128628611564636)
+Variable containing:
+ 0.2013
+[torch.FloatTensor of size 1]
+
+(89, 0.19839376211166382)
+Variable containing:
+ 0.1984
+[torch.FloatTensor of size 1]
+
+(90, 0.19554245471954346)
+Variable containing:
+ 0.1955
+[torch.FloatTensor of size 1]
+
+(91, 0.1927320957183838)
+Variable containing:
+ 0.1927
+[torch.FloatTensor of size 1]
+
+(92, 0.18996217846870422)
+Variable containing:
+ 0.1900
+[torch.FloatTensor of size 1]
+
+(93, 0.18723218142986298)
+Variable containing:
+ 0.1872
+[torch.FloatTensor of size 1]
+
+(94, 0.18454137444496155)
+Variable containing:
+ 0.1845
+[torch.FloatTensor of size 1]
+
+(95, 0.18188905715942383)
+Variable containing:
+ 0.1819
+[torch.FloatTensor of size 1]
+
+(96, 0.17927512526512146)
+Variable containing:
+ 0.1793
+[torch.FloatTensor of size 1]
+
+(97, 0.17669858038425446)
+Variable containing:
+ 0.1767
+[torch.FloatTensor of size 1]
+
+(98, 0.17415916919708252)
+Variable containing:
+ 0.1742
+[torch.FloatTensor of size 1]
+
+(99, 0.1716565191745758)
+Variable containing:
+ 0.1717
+[torch.FloatTensor of size 1]
+
+(100, 0.1691894233226776)
+Variable containing:
+ 0.1692
+[torch.FloatTensor of size 1]
+
+(101, 0.1667579561471939)
+Variable containing:
+ 0.1668
+[torch.FloatTensor of size 1]
+
+(102, 0.16436120867729187)
+Variable containing:
+ 0.1644
+[torch.FloatTensor of size 1]
+
+(103, 0.16199925541877747)
+Variable containing:
+ 0.1620
+[torch.FloatTensor of size 1]
+
+(104, 0.15967094898223877)
+Variable containing:
+ 0.1597
+[torch.FloatTensor of size 1]
+
+(105, 0.15737618505954742)
+Variable containing:
+ 0.1574
+[torch.FloatTensor of size 1]
+
+(106, 0.15511447191238403)
+Variable containing:
+ 0.1551
+[torch.FloatTensor of size 1]
+
+(107, 0.15288537740707397)
+Variable containing:
+ 0.1529
+[torch.FloatTensor of size 1]
+
+(108, 0.15068817138671875)
+Variable containing:
+ 0.1507
+[torch.FloatTensor of size 1]
+
+(109, 0.14852246642112732)
+Variable containing:
+ 0.1485
+[torch.FloatTensor of size 1]
+
+(110, 0.146387979388237)
+Variable containing:
+ 0.1464
+[torch.FloatTensor of size 1]
+
+(111, 0.1442839503288269)
+Variable containing:
+ 0.1443
+[torch.FloatTensor of size 1]
+
+(112, 0.14221063256263733)
+Variable containing:
+ 0.1422
+[torch.FloatTensor of size 1]
+
+(113, 0.1401667594909668)
+Variable containing:
+ 0.1402
+[torch.FloatTensor of size 1]
+
+(114, 0.13815222680568695)
+Variable containing:
+ 0.1382
+[torch.FloatTensor of size 1]
+
+(115, 0.13616687059402466)
+Variable containing:
+ 0.1362
+[torch.FloatTensor of size 1]
+
+(116, 0.134210005402565)
+Variable containing:
+ 0.1342
+[torch.FloatTensor of size 1]
+
+(117, 0.1322810798883438)
+Variable containing:
+ 0.1323
+[torch.FloatTensor of size 1]
+
+(118, 0.13037990033626556)
+Variable containing:
+ 0.1304
+[torch.FloatTensor of size 1]
+
+(119, 0.12850618362426758)
+Variable containing:
+ 0.1285
+[torch.FloatTensor of size 1]
+
+(120, 0.12665937840938568)
+Variable containing:
+ 0.1267
+[torch.FloatTensor of size 1]
+
+(121, 0.12483912706375122)
+Variable containing:
+ 0.1248
+[torch.FloatTensor of size 1]
+
+(122, 0.123044952750206)
+Variable containing:
+ 0.1230
+[torch.FloatTensor of size 1]
+
+(123, 0.12127650529146194)
+Variable containing:
+ 0.1213
+[torch.FloatTensor of size 1]
+
+(124, 0.11953364312648773)
+Variable containing:
+ 0.1195
+[torch.FloatTensor of size 1]
+
+(125, 0.11781581491231918)
+Variable containing:
+ 0.1178
+[torch.FloatTensor of size 1]
+
+(126, 0.11612261086702347)
+Variable containing:
+ 0.1161
+[torch.FloatTensor of size 1]
+
+(127, 0.11445363610982895)
+Variable containing:
+ 0.1145
+[torch.FloatTensor of size 1]
+
+(128, 0.11280886828899384)
+Variable containing:
+ 0.1128
+[torch.FloatTensor of size 1]
+
+(129, 0.11118753254413605)
+Variable containing:
+ 0.1112
+[torch.FloatTensor of size 1]
+
+(130, 0.10958976298570633)
+Variable containing:
+ 0.1096
+[torch.FloatTensor of size 1]
+
+(131, 0.10801465809345245)
+Variable containing:
+ 0.1080
+[torch.FloatTensor of size 1]
+
+(132, 0.10646235197782516)
+Variable containing:
+ 0.1065
+[torch.FloatTensor of size 1]
+
+(133, 0.10493224859237671)
+Variable containing:
+ 0.1049
+[torch.FloatTensor of size 1]
+
+(134, 0.10342437028884888)
+Variable containing:
+ 0.1034
+[torch.FloatTensor of size 1]
+
+(135, 0.10193781554698944)
+Variable containing:
+ 0.1019
+[torch.FloatTensor of size 1]
+
+(136, 0.10047289729118347)
+Variable containing:
+ 0.1005
+[torch.FloatTensor of size 1]
+
+(137, 0.09902900457382202)
+Variable containing:
+1.00000e-02 *
+  9.9029
+[torch.FloatTensor of size 1]
+
+(138, 0.09760571271181107)
+Variable containing:
+1.00000e-02 *
+  9.7606
+[torch.FloatTensor of size 1]
+
+(139, 0.09620295464992523)
+Variable containing:
+1.00000e-02 *
+  9.6203
+[torch.FloatTensor of size 1]
+
+(140, 0.09482042491436005)
+Variable containing:
+1.00000e-02 *
+  9.4820
+[torch.FloatTensor of size 1]
+
+(141, 0.09345768392086029)
+Variable containing:
+1.00000e-02 *
+  9.3458
+[torch.FloatTensor of size 1]
+
+(142, 0.09211459755897522)
+Variable containing:
+1.00000e-02 *
+  9.2115
+[torch.FloatTensor of size 1]
+
+(143, 0.09079078584909439)
+Variable containing:
+1.00000e-02 *
+  9.0791
+[torch.FloatTensor of size 1]
+
+(144, 0.08948590606451035)
+Variable containing:
+1.00000e-02 *
+  8.9486
+[torch.FloatTensor of size 1]
+
+(145, 0.08819976449012756)
+Variable containing:
+1.00000e-02 *
+  8.8200
+[torch.FloatTensor of size 1]
+
+(146, 0.08693227916955948)
+Variable containing:
+1.00000e-02 *
+  8.6932
+[torch.FloatTensor of size 1]
+
+(147, 0.08568299561738968)
+Variable containing:
+1.00000e-02 *
+  8.5683
+[torch.FloatTensor of size 1]
+
+(148, 0.08445148169994354)
+Variable containing:
+1.00000e-02 *
+  8.4451
+[torch.FloatTensor of size 1]
+
+(149, 0.08323778212070465)
+Variable containing:
+1.00000e-02 *
+  8.3238
+[torch.FloatTensor of size 1]
+
+(150, 0.08204158395528793)
+Variable containing:
+1.00000e-02 *
+  8.2042
+[torch.FloatTensor of size 1]
+
+(151, 0.08086241781711578)
+Variable containing:
+1.00000e-02 *
+  8.0862
+[torch.FloatTensor of size 1]
+
+(152, 0.07970035076141357)
+Variable containing:
+1.00000e-02 *
+  7.9700
+[torch.FloatTensor of size 1]
+
+(153, 0.0785548985004425)
+Variable containing:
+1.00000e-02 *
+  7.8555
+[torch.FloatTensor of size 1]
+
+(154, 0.07742597907781601)
+Variable containing:
+1.00000e-02 *
+  7.7426
+[torch.FloatTensor of size 1]
+
+(155, 0.07631323486566544)
+Variable containing:
+1.00000e-02 *
+  7.6313
+[torch.FloatTensor of size 1]
+
+(156, 0.07521651685237885)
+Variable containing:
+1.00000e-02 *
+  7.5217
+[torch.FloatTensor of size 1]
+
+(157, 0.0741354376077652)
+Variable containing:
+1.00000e-02 *
+  7.4135
+[torch.FloatTensor of size 1]
+
+(158, 0.07307009398937225)
+Variable containing:
+1.00000e-02 *
+  7.3070
+[torch.FloatTensor of size 1]
+
+(159, 0.07201988250017166)
+Variable containing:
+1.00000e-02 *
+  7.2020
+[torch.FloatTensor of size 1]
+
+(160, 0.07098491489887238)
+Variable containing:
+1.00000e-02 *
+  7.0985
+[torch.FloatTensor of size 1]
+
+(161, 0.06996475905179977)
+Variable containing:
+1.00000e-02 *
+  6.9965
+[torch.FloatTensor of size 1]
+
+(162, 0.06895922124385834)
+Variable containing:
+1.00000e-02 *
+  6.8959
+[torch.FloatTensor of size 1]
+
+(163, 0.0679682195186615)
+Variable containing:
+1.00000e-02 *
+  6.7968
+[torch.FloatTensor of size 1]
+
+(164, 0.06699144095182419)
+Variable containing:
+1.00000e-02 *
+  6.6991
+[torch.FloatTensor of size 1]
+
+(165, 0.06602867692708969)
+Variable containing:
+1.00000e-02 *
+  6.6029
+[torch.FloatTensor of size 1]
+
+(166, 0.06507974863052368)
+Variable containing:
+1.00000e-02 *
+  6.5080
+[torch.FloatTensor of size 1]
+
+(167, 0.06414438784122467)
+Variable containing:
+1.00000e-02 *
+  6.4144
+[torch.FloatTensor of size 1]
+
+(168, 0.06322258710861206)
+Variable containing:
+1.00000e-02 *
+  6.3223
+[torch.FloatTensor of size 1]
+
+(169, 0.06231383606791496)
+Variable containing:
+1.00000e-02 *
+  6.2314
+[torch.FloatTensor of size 1]
+
+(170, 0.06141828000545502)
+Variable containing:
+1.00000e-02 *
+  6.1418
+[torch.FloatTensor of size 1]
+
+(171, 0.06053568795323372)
+Variable containing:
+1.00000e-02 *
+  6.0536
+[torch.FloatTensor of size 1]
+
+(172, 0.05966563522815704)
+Variable containing:
+1.00000e-02 *
+  5.9666
+[torch.FloatTensor of size 1]
+
+(173, 0.05880820378661156)
+Variable containing:
+1.00000e-02 *
+  5.8808
+[torch.FloatTensor of size 1]
+
+(174, 0.05796298757195473)
+Variable containing:
+1.00000e-02 *
+  5.7963
+[torch.FloatTensor of size 1]
+
+(175, 0.05712994933128357)
+Variable containing:
+1.00000e-02 *
+  5.7130
+[torch.FloatTensor of size 1]
+
+(176, 0.05630896985530853)
+Variable containing:
+1.00000e-02 *
+  5.6309
+[torch.FloatTensor of size 1]
+
+(177, 0.05549972504377365)
+Variable containing:
+1.00000e-02 *
+  5.5500
+[torch.FloatTensor of size 1]
+
+(178, 0.0547020398080349)
+Variable containing:
+1.00000e-02 *
+  5.4702
+[torch.FloatTensor of size 1]
+
+(179, 0.05391600355505943)
+Variable containing:
+1.00000e-02 *
+  5.3916
+[torch.FloatTensor of size 1]
+
+(180, 0.05314115434885025)
+Variable containing:
+1.00000e-02 *
+  5.3141
+[torch.FloatTensor of size 1]
+
+(181, 0.052377402782440186)
+Variable containing:
+1.00000e-02 *
+  5.2377
+[torch.FloatTensor of size 1]
+
+(182, 0.05162455886602402)
+Variable containing:
+1.00000e-02 *
+  5.1625
+[torch.FloatTensor of size 1]
+
+(183, 0.05088270455598831)
+Variable containing:
+1.00000e-02 *
+  5.0883
+[torch.FloatTensor of size 1]
+
+(184, 0.05015144869685173)
+Variable containing:
+1.00000e-02 *
+  5.0151
+[torch.FloatTensor of size 1]
+
+(185, 0.04943067580461502)
+Variable containing:
+1.00000e-02 *
+  4.9431
+[torch.FloatTensor of size 1]
+
+(186, 0.048720333725214005)
+Variable containing:
+1.00000e-02 *
+  4.8720
+[torch.FloatTensor of size 1]
+
+(187, 0.04802006483078003)
+Variable containing:
+1.00000e-02 *
+  4.8020
+[torch.FloatTensor of size 1]
+
+(188, 0.04732988774776459)
+Variable containing:
+1.00000e-02 *
+  4.7330
+[torch.FloatTensor of size 1]
+
+(189, 0.04664967581629753)
+Variable containing:
+1.00000e-02 *
+  4.6650
+[torch.FloatTensor of size 1]
+
+(190, 0.045979343354701996)
+Variable containing:
+1.00000e-02 *
+  4.5979
+[torch.FloatTensor of size 1]
+
+(191, 0.04531852900981903)
+Variable containing:
+1.00000e-02 *
+  4.5319
+[torch.FloatTensor of size 1]
+
+(192, 0.044667214155197144)
+Variable containing:
+1.00000e-02 *
+  4.4667
+[torch.FloatTensor of size 1]
+
+(193, 0.04402528330683708)
+Variable containing:
+1.00000e-02 *
+  4.4025
+[torch.FloatTensor of size 1]
+
+(194, 0.04339251667261124)
+Variable containing:
+1.00000e-02 *
+  4.3393
+[torch.FloatTensor of size 1]
+
+(195, 0.04276896268129349)
+Variable containing:
+1.00000e-02 *
+  4.2769
+[torch.FloatTensor of size 1]
+
+(196, 0.04215423762798309)
+Variable containing:
+1.00000e-02 *
+  4.2154
+[torch.FloatTensor of size 1]
+
+(197, 0.0415484681725502)
+Variable containing:
+1.00000e-02 *
+  4.1548
+[torch.FloatTensor of size 1]
+
+(198, 0.04095129668712616)
+Variable containing:
+1.00000e-02 *
+  4.0951
+[torch.FloatTensor of size 1]
+
+(199, 0.04036281630396843)
+Variable containing:
+1.00000e-02 *
+  4.0363
+[torch.FloatTensor of size 1]
+
+(200, 0.039782699197530746)
+Variable containing:
+1.00000e-02 *
+  3.9783
+[torch.FloatTensor of size 1]
+
+(201, 0.039210960268974304)
+Variable containing:
+1.00000e-02 *
+  3.9211
+[torch.FloatTensor of size 1]
+
+(202, 0.03864746540784836)
+Variable containing:
+1.00000e-02 *
+  3.8647
+[torch.FloatTensor of size 1]
+
+(203, 0.038092032074928284)
+Variable containing:
+1.00000e-02 *
+  3.8092
+[torch.FloatTensor of size 1]
+
+(204, 0.0375446081161499)
+Variable containing:
+1.00000e-02 *
+  3.7545
+[torch.FloatTensor of size 1]
+
+(205, 0.037005044519901276)
+Variable containing:
+1.00000e-02 *
+  3.7005
+[torch.FloatTensor of size 1]
+
+(206, 0.03647321090102196)
+Variable containing:
+1.00000e-02 *
+  3.6473
+[torch.FloatTensor of size 1]
+
+(207, 0.03594907373189926)
+Variable containing:
+1.00000e-02 *
+  3.5949
+[torch.FloatTensor of size 1]
+
+(208, 0.03543243929743767)
+Variable containing:
+1.00000e-02 *
+  3.5432
+[torch.FloatTensor of size 1]
+
+(209, 0.03492320328950882)
+Variable containing:
+1.00000e-02 *
+  3.4923
+[torch.FloatTensor of size 1]
+
+(210, 0.034421272575855255)
+Variable containing:
+1.00000e-02 *
+  3.4421
+[torch.FloatTensor of size 1]
+
+(211, 0.03392665460705757)
+Variable containing:
+1.00000e-02 *
+  3.3927
+[torch.FloatTensor of size 1]
+
+(212, 0.03343901038169861)
+Variable containing:
+1.00000e-02 *
+  3.3439
+[torch.FloatTensor of size 1]
+
+(213, 0.03295838087797165)
+Variable containing:
+1.00000e-02 *
+  3.2958
+[torch.FloatTensor of size 1]
+
+(214, 0.032484788447618484)
+Variable containing:
+1.00000e-02 *
+  3.2485
+[torch.FloatTensor of size 1]
+
+(215, 0.03201792761683464)
+Variable containing:
+1.00000e-02 *
+  3.2018
+[torch.FloatTensor of size 1]
+
+(216, 0.03155776858329773)
+Variable containing:
+1.00000e-02 *
+  3.1558
+[torch.FloatTensor of size 1]
+
+(217, 0.03110416978597641)
+Variable containing:
+1.00000e-02 *
+  3.1104
+[torch.FloatTensor of size 1]
+
+(218, 0.030657267197966576)
+Variable containing:
+1.00000e-02 *
+  3.0657
+[torch.FloatTensor of size 1]
+
+(219, 0.030216630548238754)
+Variable containing:
+1.00000e-02 *
+  3.0217
+[torch.FloatTensor of size 1]
+
+(220, 0.02978239208459854)
+Variable containing:
+1.00000e-02 *
+  2.9782
+[torch.FloatTensor of size 1]
+
+(221, 0.029354287311434746)
+Variable containing:
+1.00000e-02 *
+  2.9354
+[torch.FloatTensor of size 1]
+
+(222, 0.02893245592713356)
+Variable containing:
+1.00000e-02 *
+  2.8932
+[torch.FloatTensor of size 1]
+
+(223, 0.028516624122858047)
+Variable containing:
+1.00000e-02 *
+  2.8517
+[torch.FloatTensor of size 1]
+
+(224, 0.028106851503252983)
+Variable containing:
+1.00000e-02 *
+  2.8107
+[torch.FloatTensor of size 1]
+
+(225, 0.027702849358320236)
+Variable containing:
+1.00000e-02 *
+  2.7703
+[torch.FloatTensor of size 1]
+
+(226, 0.02730473503470421)
+Variable containing:
+1.00000e-02 *
+  2.7305
+[torch.FloatTensor of size 1]
+
+(227, 0.026912417262792587)
+Variable containing:
+1.00000e-02 *
+  2.6912
+[torch.FloatTensor of size 1]
+
+(228, 0.026525620371103287)
+Variable containing:
+1.00000e-02 *
+  2.6526
+[torch.FloatTensor of size 1]
+
+(229, 0.026144379749894142)
+Variable containing:
+1.00000e-02 *
+  2.6144
+[torch.FloatTensor of size 1]
+
+(230, 0.025768611580133438)
+Variable containing:
+1.00000e-02 *
+  2.5769
+[torch.FloatTensor of size 1]
+
+(231, 0.025398261845111847)
+Variable containing:
+1.00000e-02 *
+  2.5398
+[torch.FloatTensor of size 1]
+
+(232, 0.025033360347151756)
+Variable containing:
+1.00000e-02 *
+  2.5033
+[torch.FloatTensor of size 1]
+
+(233, 0.024673521518707275)
+Variable containing:
+1.00000e-02 *
+  2.4674
+[torch.FloatTensor of size 1]
+
+(234, 0.024318886920809746)
+Variable containing:
+1.00000e-02 *
+  2.4319
+[torch.FloatTensor of size 1]
+
+(235, 0.023969441652297974)
+Variable containing:
+1.00000e-02 *
+  2.3969
+[torch.FloatTensor of size 1]
+
+(236, 0.02362499013543129)
+Variable containing:
+1.00000e-02 *
+  2.3625
+[torch.FloatTensor of size 1]
+
+(237, 0.02328542247414589)
+Variable containing:
+1.00000e-02 *
+  2.3285
+[torch.FloatTensor of size 1]
+
+(238, 0.022950738668441772)
+Variable containing:
+1.00000e-02 *
+  2.2951
+[torch.FloatTensor of size 1]
+
+(239, 0.022620920091867447)
+Variable containing:
+1.00000e-02 *
+  2.2621
+[torch.FloatTensor of size 1]
+
+(240, 0.022295866161584854)
+Variable containing:
+1.00000e-02 *
+  2.2296
+[torch.FloatTensor of size 1]
+
+(241, 0.021975424140691757)
+Variable containing:
+1.00000e-02 *
+  2.1975
+[torch.FloatTensor of size 1]
+
+(242, 0.021659594029188156)
+Variable containing:
+1.00000e-02 *
+  2.1660
+[torch.FloatTensor of size 1]
+
+(243, 0.02134827710688114)
+Variable containing:
+1.00000e-02 *
+  2.1348
+[torch.FloatTensor of size 1]
+
+(244, 0.021041549742221832)
+Variable containing:
+1.00000e-02 *
+  2.1042
+[torch.FloatTensor of size 1]
+
+(245, 0.020739100873470306)
+Variable containing:
+1.00000e-02 *
+  2.0739
+[torch.FloatTensor of size 1]
+
+(246, 0.0204410869628191)
+Variable containing:
+1.00000e-02 *
+  2.0441
+[torch.FloatTensor of size 1]
+
+(247, 0.020147325471043587)
+Variable containing:
+1.00000e-02 *
+  2.0147
+[torch.FloatTensor of size 1]
+
+(248, 0.019857779145240784)
+Variable containing:
+1.00000e-02 *
+  1.9858
+[torch.FloatTensor of size 1]
+
+(249, 0.019572395831346512)
+Variable containing:
+1.00000e-02 *
+  1.9572
+[torch.FloatTensor of size 1]
+
+(250, 0.019291110336780548)
+Variable containing:
+1.00000e-02 *
+  1.9291
+[torch.FloatTensor of size 1]
+
+(251, 0.019013844430446625)
+Variable containing:
+1.00000e-02 *
+  1.9014
+[torch.FloatTensor of size 1]
+
+(252, 0.018740613013505936)
+Variable containing:
+1.00000e-02 *
+  1.8741
+[torch.FloatTensor of size 1]
+
+(253, 0.018471233546733856)
+Variable containing:
+1.00000e-02 *
+  1.8471
+[torch.FloatTensor of size 1]
+
+(254, 0.01820581965148449)
+Variable containing:
+1.00000e-02 *
+  1.8206
+[torch.FloatTensor of size 1]
+
+(255, 0.01794411800801754)
+Variable containing:
+1.00000e-02 *
+  1.7944
+[torch.FloatTensor of size 1]
+
+(256, 0.017686283215880394)
+Variable containing:
+1.00000e-02 *
+  1.7686
+[torch.FloatTensor of size 1]
+
+(257, 0.017432041466236115)
+Variable containing:
+1.00000e-02 *
+  1.7432
+[torch.FloatTensor of size 1]
+
+(258, 0.017181506380438805)
+Variable containing:
+1.00000e-02 *
+  1.7182
+[torch.FloatTensor of size 1]
+
+(259, 0.01693463884294033)
+Variable containing:
+1.00000e-02 *
+  1.6935
+[torch.FloatTensor of size 1]
+
+(260, 0.016691211611032486)
+Variable containing:
+1.00000e-02 *
+  1.6691
+[torch.FloatTensor of size 1]
+
+(261, 0.01645137369632721)
+Variable containing:
+1.00000e-02 *
+  1.6451
+[torch.FloatTensor of size 1]
+
+(262, 0.016214922070503235)
+Variable containing:
+1.00000e-02 *
+  1.6215
+[torch.FloatTensor of size 1]
+
+(263, 0.01598188653588295)
+Variable containing:
+1.00000e-02 *
+  1.5982
+[torch.FloatTensor of size 1]
+
+(264, 0.015752244740724564)
+Variable containing:
+1.00000e-02 *
+  1.5752
+[torch.FloatTensor of size 1]
+
+(265, 0.01552581787109375)
+Variable containing:
+1.00000e-02 *
+  1.5526
+[torch.FloatTensor of size 1]
+
+(266, 0.01530271116644144)
+Variable containing:
+1.00000e-02 *
+  1.5303
+[torch.FloatTensor of size 1]
+
+(267, 0.01508275605738163)
+Variable containing:
+1.00000e-02 *
+  1.5083
+[torch.FloatTensor of size 1]
+
+(268, 0.014865994453430176)
+Variable containing:
+1.00000e-02 *
+  1.4866
+[torch.FloatTensor of size 1]
+
+(269, 0.014652314595878124)
+Variable containing:
+1.00000e-02 *
+  1.4652
+[torch.FloatTensor of size 1]
+
+(270, 0.01444173976778984)
+Variable containing:
+1.00000e-02 *
+  1.4442
+[torch.FloatTensor of size 1]
+
+(271, 0.01423425693064928)
+Variable containing:
+1.00000e-02 *
+  1.4234
+[torch.FloatTensor of size 1]
+
+(272, 0.014029674232006073)
+Variable containing:
+1.00000e-02 *
+  1.4030
+[torch.FloatTensor of size 1]
+
+(273, 0.013828047551214695)
+Variable containing:
+1.00000e-02 *
+  1.3828
+[torch.FloatTensor of size 1]
+
+(274, 0.013629348017275333)
+Variable containing:
+1.00000e-02 *
+  1.3629
+[torch.FloatTensor of size 1]
+
+(275, 0.013433434069156647)
+Variable containing:
+1.00000e-02 *
+  1.3433
+[torch.FloatTensor of size 1]
+
+(276, 0.013240404427051544)
+Variable containing:
+1.00000e-02 *
+  1.3240
+[torch.FloatTensor of size 1]
+
+(277, 0.01305010449141264)
+Variable containing:
+1.00000e-02 *
+  1.3050
+[torch.FloatTensor of size 1]
+
+(278, 0.012862574309110641)
+Variable containing:
+1.00000e-02 *
+  1.2863
+[torch.FloatTensor of size 1]
+
+(279, 0.012677699327468872)
+Variable containing:
+1.00000e-02 *
+  1.2678
+[torch.FloatTensor of size 1]
+
+(280, 0.012495454400777817)
+Variable containing:
+1.00000e-02 *
+  1.2495
+[torch.FloatTensor of size 1]
+
+(281, 0.012315910309553146)
+Variable containing:
+1.00000e-02 *
+  1.2316
+[torch.FloatTensor of size 1]
+
+(282, 0.012138900347054005)
+Variable containing:
+1.00000e-02 *
+  1.2139
+[torch.FloatTensor of size 1]
+
+(283, 0.011964419856667519)
+Variable containing:
+1.00000e-02 *
+  1.1964
+[torch.FloatTensor of size 1]
+
+(284, 0.01179247722029686)
+Variable containing:
+1.00000e-02 *
+  1.1792
+[torch.FloatTensor of size 1]
+
+(285, 0.01162299606949091)
+Variable containing:
+1.00000e-02 *
+  1.1623
+[torch.FloatTensor of size 1]
+
+(286, 0.011455992236733437)
+Variable containing:
+1.00000e-02 *
+  1.1456
+[torch.FloatTensor of size 1]
+
+(287, 0.011291345581412315)
+Variable containing:
+1.00000e-02 *
+  1.1291
+[torch.FloatTensor of size 1]
+
+(288, 0.011129098944365978)
+Variable containing:
+1.00000e-02 *
+  1.1129
+[torch.FloatTensor of size 1]
+
+(289, 0.010969160124659538)
+Variable containing:
+1.00000e-02 *
+  1.0969
+[torch.FloatTensor of size 1]
+
+(290, 0.010811508633196354)
+Variable containing:
+1.00000e-02 *
+  1.0812
+[torch.FloatTensor of size 1]
+
+(291, 0.010656114667654037)
+Variable containing:
+1.00000e-02 *
+  1.0656
+[torch.FloatTensor of size 1]
+
+(292, 0.010502948425710201)
+Variable containing:
+1.00000e-02 *
+  1.0503
+[torch.FloatTensor of size 1]
+
+(293, 0.010352002456784248)
+Variable containing:
+1.00000e-02 *
+  1.0352
+[torch.FloatTensor of size 1]
+
+(294, 0.010203206911683083)
+Variable containing:
+1.00000e-02 *
+  1.0203
+[torch.FloatTensor of size 1]
+
+(295, 0.010056636296212673)
+Variable containing:
+1.00000e-02 *
+  1.0057
+[torch.FloatTensor of size 1]
+
+(296, 0.009912105277180672)
+Variable containing:
+1.00000e-03 *
+  9.9121
+[torch.FloatTensor of size 1]
+
+(297, 0.009769648313522339)
+Variable containing:
+1.00000e-03 *
+  9.7696
+[torch.FloatTensor of size 1]
+
+(298, 0.009629204869270325)
+Variable containing:
+1.00000e-03 *
+  9.6292
+[torch.FloatTensor of size 1]
+
+(299, 0.009490790776908398)
+Variable containing:
+1.00000e-03 *
+  9.4908
+[torch.FloatTensor of size 1]
+
+(300, 0.009354392066597939)
+Variable containing:
+1.00000e-03 *
+  9.3544
+[torch.FloatTensor of size 1]
+
+(301, 0.009219985455274582)
+Variable containing:
+1.00000e-03 *
+  9.2200
+[torch.FloatTensor of size 1]
+
+(302, 0.009087460115551949)
+Variable containing:
+1.00000e-03 *
+  9.0875
+[torch.FloatTensor of size 1]
+
+(303, 0.00895688496530056)
+Variable containing:
+1.00000e-03 *
+  8.9569
+[torch.FloatTensor of size 1]
+
+(304, 0.00882817804813385)
+Variable containing:
+1.00000e-03 *
+  8.8282
+[torch.FloatTensor of size 1]
+
+(305, 0.008701307699084282)
+Variable containing:
+1.00000e-03 *
+  8.7013
+[torch.FloatTensor of size 1]
+
+(306, 0.008576245047152042)
+Variable containing:
+1.00000e-03 *
+  8.5762
+[torch.FloatTensor of size 1]
+
+(307, 0.008452953770756721)
+Variable containing:
+1.00000e-03 *
+  8.4530
+[torch.FloatTensor of size 1]
+
+(308, 0.008331509307026863)
+Variable containing:
+1.00000e-03 *
+  8.3315
+[torch.FloatTensor of size 1]
+
+(309, 0.008211786858737469)
+Variable containing:
+1.00000e-03 *
+  8.2118
+[torch.FloatTensor of size 1]
+
+(310, 0.008093726821243763)
+Variable containing:
+1.00000e-03 *
+  8.0937
+[torch.FloatTensor of size 1]
+
+(311, 0.007977387867867947)
+Variable containing:
+1.00000e-03 *
+  7.9774
+[torch.FloatTensor of size 1]
+
+(312, 0.007862747646868229)
+Variable containing:
+1.00000e-03 *
+  7.8627
+[torch.FloatTensor of size 1]
+
+(313, 0.007749766577035189)
+Variable containing:
+1.00000e-03 *
+  7.7498
+[torch.FloatTensor of size 1]
+
+(314, 0.007638364564627409)
+Variable containing:
+1.00000e-03 *
+  7.6384
+[torch.FloatTensor of size 1]
+
+(315, 0.007528586313128471)
+Variable containing:
+1.00000e-03 *
+  7.5286
+[torch.FloatTensor of size 1]
+
+(316, 0.007420409470796585)
+Variable containing:
+1.00000e-03 *
+  7.4204
+[torch.FloatTensor of size 1]
+
+(317, 0.007313781417906284)
+Variable containing:
+1.00000e-03 *
+  7.3138
+[torch.FloatTensor of size 1]
+
+(318, 0.007208630908280611)
+Variable containing:
+1.00000e-03 *
+  7.2086
+[torch.FloatTensor of size 1]
+
+(319, 0.0071050552651286125)
+Variable containing:
+1.00000e-03 *
+  7.1051
+[torch.FloatTensor of size 1]
+
+(320, 0.00700295390561223)
+Variable containing:
+1.00000e-03 *
+  7.0030
+[torch.FloatTensor of size 1]
+
+(321, 0.00690230680629611)
+Variable containing:
+1.00000e-03 *
+  6.9023
+[torch.FloatTensor of size 1]
+
+(322, 0.006803112104535103)
+Variable containing:
+1.00000e-03 *
+  6.8031
+[torch.FloatTensor of size 1]
+
+(323, 0.006705335341393948)
+Variable containing:
+1.00000e-03 *
+  6.7053
+[torch.FloatTensor of size 1]
+
+(324, 0.006608942057937384)
+Variable containing:
+1.00000e-03 *
+  6.6089
+[torch.FloatTensor of size 1]
+
+(325, 0.006513988599181175)
+Variable containing:
+1.00000e-03 *
+  6.5140
+[torch.FloatTensor of size 1]
+
+(326, 0.006420341320335865)
+Variable containing:
+1.00000e-03 *
+  6.4203
+[torch.FloatTensor of size 1]
+
+(327, 0.006328103598207235)
+Variable containing:
+1.00000e-03 *
+  6.3281
+[torch.FloatTensor of size 1]
+
+(328, 0.006237143184989691)
+Variable containing:
+1.00000e-03 *
+  6.2371
+[torch.FloatTensor of size 1]
+
+(329, 0.006147539243102074)
+Variable containing:
+1.00000e-03 *
+  6.1475
+[torch.FloatTensor of size 1]
+
+(330, 0.006059149280190468)
+Variable containing:
+1.00000e-03 *
+  6.0591
+[torch.FloatTensor of size 1]
+
+(331, 0.005972100421786308)
+Variable containing:
+1.00000e-03 *
+  5.9721
+[torch.FloatTensor of size 1]
+
+(332, 0.005886274389922619)
+Variable containing:
+1.00000e-03 *
+  5.8863
+[torch.FloatTensor of size 1]
+
+(333, 0.005801680497825146)
+Variable containing:
+1.00000e-03 *
+  5.8017
+[torch.FloatTensor of size 1]
+
+(334, 0.005718284286558628)
+Variable containing:
+1.00000e-03 *
+  5.7183
+[torch.FloatTensor of size 1]
+
+(335, 0.005636107176542282)
+Variable containing:
+1.00000e-03 *
+  5.6361
+[torch.FloatTensor of size 1]
+
+(336, 0.005555113777518272)
+Variable containing:
+1.00000e-03 *
+  5.5551
+[torch.FloatTensor of size 1]
+
+(337, 0.005475257523357868)
+Variable containing:
+1.00000e-03 *
+  5.4753
+[torch.FloatTensor of size 1]
+
+(338, 0.005396577995270491)
+Variable containing:
+1.00000e-03 *
+  5.3966
+[torch.FloatTensor of size 1]
+
+(339, 0.0053190188482403755)
+Variable containing:
+1.00000e-03 *
+  5.3190
+[torch.FloatTensor of size 1]
+
+(340, 0.0052425675094127655)
+Variable containing:
+1.00000e-03 *
+  5.2426
+[torch.FloatTensor of size 1]
+
+(341, 0.005167204886674881)
+Variable containing:
+1.00000e-03 *
+  5.1672
+[torch.FloatTensor of size 1]
+
+(342, 0.005092985928058624)
+Variable containing:
+1.00000e-03 *
+  5.0930
+[torch.FloatTensor of size 1]
+
+(343, 0.005019790027290583)
+Variable containing:
+1.00000e-03 *
+  5.0198
+[torch.FloatTensor of size 1]
+
+(344, 0.004947618581354618)
+Variable containing:
+1.00000e-03 *
+  4.9476
+[torch.FloatTensor of size 1]
+
+(345, 0.0048765139654278755)
+Variable containing:
+1.00000e-03 *
+  4.8765
+[torch.FloatTensor of size 1]
+
+(346, 0.004806439392268658)
+Variable containing:
+1.00000e-03 *
+  4.8064
+[torch.FloatTensor of size 1]
+
+(347, 0.004737368784844875)
+Variable containing:
+1.00000e-03 *
+  4.7374
+[torch.FloatTensor of size 1]
+
+(348, 0.004669306334108114)
+Variable containing:
+1.00000e-03 *
+  4.6693
+[torch.FloatTensor of size 1]
+
+(349, 0.004602186381816864)
+Variable containing:
+1.00000e-03 *
+  4.6022
+[torch.FloatTensor of size 1]
+
+(350, 0.004536045249551535)
+Variable containing:
+1.00000e-03 *
+  4.5360
+[torch.FloatTensor of size 1]
+
+(351, 0.004470872692763805)
+Variable containing:
+1.00000e-03 *
+  4.4709
+[torch.FloatTensor of size 1]
+
+(352, 0.00440658163279295)
+Variable containing:
+1.00000e-03 *
+  4.4066
+[torch.FloatTensor of size 1]
+
+(353, 0.00434328056871891)
+Variable containing:
+1.00000e-03 *
+  4.3433
+[torch.FloatTensor of size 1]
+
+(354, 0.004280875436961651)
+Variable containing:
+1.00000e-03 *
+  4.2809
+[torch.FloatTensor of size 1]
+
+(355, 0.0042193555273115635)
+Variable containing:
+1.00000e-03 *
+  4.2194
+[torch.FloatTensor of size 1]
+
+(356, 0.0041586970910429955)
+Variable containing:
+1.00000e-03 *
+  4.1587
+[torch.FloatTensor of size 1]
+
+(357, 0.004098947625607252)
+Variable containing:
+1.00000e-03 *
+  4.0989
+[torch.FloatTensor of size 1]
+
+(358, 0.004040025640279055)
+Variable containing:
+1.00000e-03 *
+  4.0400
+[torch.FloatTensor of size 1]
+
+(359, 0.003981955349445343)
+Variable containing:
+1.00000e-03 *
+  3.9820
+[torch.FloatTensor of size 1]
+
+(360, 0.003924746531993151)
+Variable containing:
+1.00000e-03 *
+  3.9247
+[torch.FloatTensor of size 1]
+
+(361, 0.0038683100137859583)
+Variable containing:
+1.00000e-03 *
+  3.8683
+[torch.FloatTensor of size 1]
+
+(362, 0.0038127379957586527)
+Variable containing:
+1.00000e-03 *
+  3.8127
+[torch.FloatTensor of size 1]
+
+(363, 0.0037579634226858616)
+Variable containing:
+1.00000e-03 *
+  3.7580
+[torch.FloatTensor of size 1]
+
+(364, 0.003703928552567959)
+Variable containing:
+1.00000e-03 *
+  3.7039
+[torch.FloatTensor of size 1]
+
+(365, 0.0036506997421383858)
+Variable containing:
+1.00000e-03 *
+  3.6507
+[torch.FloatTensor of size 1]
+
+(366, 0.003598232287913561)
+Variable containing:
+1.00000e-03 *
+  3.5982
+[torch.FloatTensor of size 1]
+
+(367, 0.003546518972143531)
+Variable containing:
+1.00000e-03 *
+  3.5465
+[torch.FloatTensor of size 1]
+
+(368, 0.00349555816501379)
+Variable containing:
+1.00000e-03 *
+  3.4956
+[torch.FloatTensor of size 1]
+
+(369, 0.0034453279804438353)
+Variable containing:
+1.00000e-03 *
+  3.4453
+[torch.FloatTensor of size 1]
+
+(370, 0.0033958065323531628)
+Variable containing:
+1.00000e-03 *
+  3.3958
+[torch.FloatTensor of size 1]
+
+(371, 0.0033469838090240955)
+Variable containing:
+1.00000e-03 *
+  3.3470
+[torch.FloatTensor of size 1]
+
+(372, 0.0032988982275128365)
+Variable containing:
+1.00000e-03 *
+  3.2989
+[torch.FloatTensor of size 1]
+
+(373, 0.0032515055499970913)
+Variable containing:
+1.00000e-03 *
+  3.2515
+[torch.FloatTensor of size 1]
+
+(374, 0.003204748732969165)
+Variable containing:
+1.00000e-03 *
+  3.2047
+[torch.FloatTensor of size 1]
+
+(375, 0.0031587225385010242)
+Variable containing:
+1.00000e-03 *
+  3.1587
+[torch.FloatTensor of size 1]
+
+(376, 0.0031132923904806376)
+Variable containing:
+1.00000e-03 *
+  3.1133
+[torch.FloatTensor of size 1]
+
+(377, 0.003068584017455578)
+Variable containing:
+1.00000e-03 *
+  3.0686
+[torch.FloatTensor of size 1]
+
+(378, 0.003024451667442918)
+Variable containing:
+1.00000e-03 *
+  3.0245
+[torch.FloatTensor of size 1]
+
+(379, 0.002981004072353244)
+Variable containing:
+1.00000e-03 *
+  2.9810
+[torch.FloatTensor of size 1]
+
+(380, 0.0029381669592112303)
+Variable containing:
+1.00000e-03 *
+  2.9382
+[torch.FloatTensor of size 1]
+
+(381, 0.00289592775516212)
+Variable containing:
+1.00000e-03 *
+  2.8959
+[torch.FloatTensor of size 1]
+
+(382, 0.0028542957734316587)
+Variable containing:
+1.00000e-03 *
+  2.8543
+[torch.FloatTensor of size 1]
+
+(383, 0.0028133108280599117)
+Variable containing:
+1.00000e-03 *
+  2.8133
+[torch.FloatTensor of size 1]
+
+(384, 0.0027728730347007513)
+Variable containing:
+1.00000e-03 *
+  2.7729
+[torch.FloatTensor of size 1]
+
+(385, 0.0027330226730555296)
+Variable containing:
+1.00000e-03 *
+  2.7330
+[torch.FloatTensor of size 1]
+
+(386, 0.0026937390211969614)
+Variable containing:
+1.00000e-03 *
+  2.6937
+[torch.FloatTensor of size 1]
+
+(387, 0.00265501462854445)
+Variable containing:
+1.00000e-03 *
+  2.6550
+[torch.FloatTensor of size 1]
+
+(388, 0.002616850659251213)
+Variable containing:
+1.00000e-03 *
+  2.6169
+[torch.FloatTensor of size 1]
+
+(389, 0.002579266671091318)
+Variable containing:
+1.00000e-03 *
+  2.5793
+[torch.FloatTensor of size 1]
+
+(390, 0.00254217186011374)
+Variable containing:
+1.00000e-03 *
+  2.5422
+[torch.FloatTensor of size 1]
+
+(391, 0.002505651442334056)
+Variable containing:
+1.00000e-03 *
+  2.5057
+[torch.FloatTensor of size 1]
+
+(392, 0.00246964069083333)
+Variable containing:
+1.00000e-03 *
+  2.4696
+[torch.FloatTensor of size 1]
+
+(393, 0.002434137277305126)
+Variable containing:
+1.00000e-03 *
+  2.4341
+[torch.FloatTensor of size 1]
+
+(394, 0.002399170072749257)
+Variable containing:
+1.00000e-03 *
+  2.3992
+[torch.FloatTensor of size 1]
+
+(395, 0.0023646962363272905)
+Variable containing:
+1.00000e-03 *
+  2.3647
+[torch.FloatTensor of size 1]
+
+(396, 0.0023306934162974358)
+Variable containing:
+1.00000e-03 *
+  2.3307
+[torch.FloatTensor of size 1]
+
+(397, 0.0022972100414335728)
+Variable containing:
+1.00000e-03 *
+  2.2972
+[torch.FloatTensor of size 1]
+
+(398, 0.0022641958203166723)
+Variable containing:
+1.00000e-03 *
+  2.2642
+[torch.FloatTensor of size 1]
+
+(399, 0.002231673337519169)
+Variable containing:
+1.00000e-03 *
+  2.2317
+[torch.FloatTensor of size 1]
+
+(400, 0.002199576934799552)
+Variable containing:
+1.00000e-03 *
+  2.1996
+[torch.FloatTensor of size 1]
+
+(401, 0.0021679892670363188)
+Variable containing:
+1.00000e-03 *
+  2.1680
+[torch.FloatTensor of size 1]
+
+(402, 0.0021368046291172504)
+Variable containing:
+1.00000e-03 *
+  2.1368
+[torch.FloatTensor of size 1]
+
+(403, 0.0021061073057353497)
+Variable containing:
+1.00000e-03 *
+  2.1061
+[torch.FloatTensor of size 1]
+
+(404, 0.002075828379020095)
+Variable containing:
+1.00000e-03 *
+  2.0758
+[torch.FloatTensor of size 1]
+
+(405, 0.0020459999796003103)
+Variable containing:
+1.00000e-03 *
+  2.0460
+[torch.FloatTensor of size 1]
+
+(406, 0.00201658857986331)
+Variable containing:
+1.00000e-03 *
+  2.0166
+[torch.FloatTensor of size 1]
+
+(407, 0.00198762328363955)
+Variable containing:
+1.00000e-03 *
+  1.9876
+[torch.FloatTensor of size 1]
+
+(408, 0.0019590554293245077)
+Variable containing:
+1.00000e-03 *
+  1.9591
+[torch.FloatTensor of size 1]
+
+(409, 0.0019308833871036768)
+Variable containing:
+1.00000e-03 *
+  1.9309
+[torch.FloatTensor of size 1]
+
+(410, 0.0019031462725251913)
+Variable containing:
+1.00000e-03 *
+  1.9031
+[torch.FloatTensor of size 1]
+
+(411, 0.0018758038058876991)
+Variable containing:
+1.00000e-03 *
+  1.8758
+[torch.FloatTensor of size 1]
+
+(412, 0.0018488416681066155)
+Variable containing:
+1.00000e-03 *
+  1.8488
+[torch.FloatTensor of size 1]
+
+(413, 0.00182225345633924)
+Variable containing:
+1.00000e-03 *
+  1.8223
+[torch.FloatTensor of size 1]
+
+(414, 0.001796067226678133)
+Variable containing:
+1.00000e-03 *
+  1.7961
+[torch.FloatTensor of size 1]
+
+(415, 0.0017702734330669045)
+Variable containing:
+1.00000e-03 *
+  1.7703
+[torch.FloatTensor of size 1]
+
+(416, 0.001744824112392962)
+Variable containing:
+1.00000e-03 *
+  1.7448
+[torch.FloatTensor of size 1]
+
+(417, 0.0017197640845552087)
+Variable containing:
+1.00000e-03 *
+  1.7198
+[torch.FloatTensor of size 1]
+
+(418, 0.0016950169811025262)
+Variable containing:
+1.00000e-03 *
+  1.6950
+[torch.FloatTensor of size 1]
+
+(419, 0.0016706701135262847)
+Variable containing:
+1.00000e-03 *
+  1.6707
+[torch.FloatTensor of size 1]
+
+(420, 0.0016466599190607667)
+Variable containing:
+1.00000e-03 *
+  1.6467
+[torch.FloatTensor of size 1]
+
+(421, 0.0016229923348873854)
+Variable containing:
+1.00000e-03 *
+  1.6230
+[torch.FloatTensor of size 1]
+
+(422, 0.0015996586298570037)
+Variable containing:
+1.00000e-03 *
+  1.5997
+[torch.FloatTensor of size 1]
+
+(423, 0.0015766809228807688)
+Variable containing:
+1.00000e-03 *
+  1.5767
+[torch.FloatTensor of size 1]
+
+(424, 0.0015540230087935925)
+Variable containing:
+1.00000e-03 *
+  1.5540
+[torch.FloatTensor of size 1]
+
+(425, 0.0015317020006477833)
+Variable containing:
+1.00000e-03 *
+  1.5317
+[torch.FloatTensor of size 1]
+
+(426, 0.0015096782008185983)
+Variable containing:
+1.00000e-03 *
+  1.5097
+[torch.FloatTensor of size 1]
+
+(427, 0.0014879930531606078)
+Variable containing:
+1.00000e-03 *
+  1.4880
+[torch.FloatTensor of size 1]
+
+(428, 0.001466598710976541)
+Variable containing:
+1.00000e-03 *
+  1.4666
+[torch.FloatTensor of size 1]
+
+(429, 0.0014455115888267756)
+Variable containing:
+1.00000e-03 *
+  1.4455
+[torch.FloatTensor of size 1]
+
+(430, 0.0014247350627556443)
+Variable containing:
+1.00000e-03 *
+  1.4247
+[torch.FloatTensor of size 1]
+
+(431, 0.001404257258400321)
+Variable containing:
+1.00000e-03 *
+  1.4043
+[torch.FloatTensor of size 1]
+
+(432, 0.0013840747997164726)
+Variable containing:
+1.00000e-03 *
+  1.3841
+[torch.FloatTensor of size 1]
+
+(433, 0.0013641887344419956)
+Variable containing:
+1.00000e-03 *
+  1.3642
+[torch.FloatTensor of size 1]
+
+(434, 0.001344580901786685)
+Variable containing:
+1.00000e-03 *
+  1.3446
+[torch.FloatTensor of size 1]
+
+(435, 0.00132526527158916)
+Variable containing:
+1.00000e-03 *
+  1.3253
+[torch.FloatTensor of size 1]
+
+(436, 0.001306209247559309)
+Variable containing:
+1.00000e-03 *
+  1.3062
+[torch.FloatTensor of size 1]
+
+(437, 0.0012874497333541512)
+Variable containing:
+1.00000e-03 *
+  1.2874
+[torch.FloatTensor of size 1]
+
+(438, 0.0012689356226474047)
+Variable containing:
+1.00000e-03 *
+  1.2689
+[torch.FloatTensor of size 1]
+
+(439, 0.0012507056817412376)
+Variable containing:
+1.00000e-03 *
+  1.2507
+[torch.FloatTensor of size 1]
+
+(440, 0.0012327302247285843)
+Variable containing:
+1.00000e-03 *
+  1.2327
+[torch.FloatTensor of size 1]
+
+(441, 0.0012150085531175137)
+Variable containing:
+1.00000e-03 *
+  1.2150
+[torch.FloatTensor of size 1]
+
+(442, 0.0011975457891821861)
+Variable containing:
+1.00000e-03 *
+  1.1975
+[torch.FloatTensor of size 1]
+
+(443, 0.0011803314555436373)
+Variable containing:
+1.00000e-03 *
+  1.1803
+[torch.FloatTensor of size 1]
+
+(444, 0.0011633764952421188)
+Variable containing:
+1.00000e-03 *
+  1.1634
+[torch.FloatTensor of size 1]
+
+(445, 0.0011466625146567822)
+Variable containing:
+1.00000e-03 *
+  1.1467
+[torch.FloatTensor of size 1]
+
+(446, 0.0011301845079287887)
+Variable containing:
+1.00000e-03 *
+  1.1302
+[torch.FloatTensor of size 1]
+
+(447, 0.0011139230336993933)
+Variable containing:
+1.00000e-03 *
+  1.1139
+[torch.FloatTensor of size 1]
+
+(448, 0.0010979295475408435)
+Variable containing:
+1.00000e-03 *
+  1.0979
+[torch.FloatTensor of size 1]
+
+(449, 0.0010821493342518806)
+Variable containing:
+1.00000e-03 *
+  1.0821
+[torch.FloatTensor of size 1]
+
+(450, 0.001066599041223526)
+Variable containing:
+1.00000e-03 *
+  1.0666
+[torch.FloatTensor of size 1]
+
+(451, 0.001051268889568746)
+Variable containing:
+1.00000e-03 *
+  1.0513
+[torch.FloatTensor of size 1]
+
+(452, 0.001036150730215013)
+Variable containing:
+1.00000e-03 *
+  1.0362
+[torch.FloatTensor of size 1]
+
+(453, 0.0010212684283033013)
+Variable containing:
+1.00000e-03 *
+  1.0213
+[torch.FloatTensor of size 1]
+
+(454, 0.0010065878741443157)
+Variable containing:
+1.00000e-03 *
+  1.0066
+[torch.FloatTensor of size 1]
+
+(455, 0.0009921288583427668)
+Variable containing:
+1.00000e-04 *
+  9.9213
+[torch.FloatTensor of size 1]
+
+(456, 0.0009778746170923114)
+Variable containing:
+1.00000e-04 *
+  9.7787
+[torch.FloatTensor of size 1]
+
+(457, 0.0009638118790462613)
+Variable containing:
+1.00000e-04 *
+  9.6381
+[torch.FloatTensor of size 1]
+
+(458, 0.0009499549632892013)
+Variable containing:
+1.00000e-04 *
+  9.4995
+[torch.FloatTensor of size 1]
+
+(459, 0.0009363015415146947)
+Variable containing:
+1.00000e-04 *
+  9.3630
+[torch.FloatTensor of size 1]
+
+(460, 0.00092285469872877)
+Variable containing:
+1.00000e-04 *
+  9.2285
+[torch.FloatTensor of size 1]
+
+(461, 0.0009095980785787106)
+Variable containing:
+1.00000e-04 *
+  9.0960
+[torch.FloatTensor of size 1]
+
+(462, 0.0008965174783952534)
+Variable containing:
+1.00000e-04 *
+  8.9652
+[torch.FloatTensor of size 1]
+
+(463, 0.0008836318738758564)
+Variable containing:
+1.00000e-04 *
+  8.8363
+[torch.FloatTensor of size 1]
+
+(464, 0.000870932184625417)
+Variable containing:
+1.00000e-04 *
+  8.7093
+[torch.FloatTensor of size 1]
+
+(465, 0.0008584095048718154)
+Variable containing:
+1.00000e-04 *
+  8.5841
+[torch.FloatTensor of size 1]
+
+(466, 0.0008460824610665441)
+Variable containing:
+1.00000e-04 *
+  8.4608
+[torch.FloatTensor of size 1]
+
+(467, 0.0008339284686371684)
+Variable containing:
+1.00000e-04 *
+  8.3393
+[torch.FloatTensor of size 1]
+
+(468, 0.0008219258161261678)
+Variable containing:
+1.00000e-04 *
+  8.2193
+[torch.FloatTensor of size 1]
+
+(469, 0.0008101242710836232)
+Variable containing:
+1.00000e-04 *
+  8.1012
+[torch.FloatTensor of size 1]
+
+(470, 0.000798491935711354)
+Variable containing:
+1.00000e-04 *
+  7.9849
+[torch.FloatTensor of size 1]
+
+(471, 0.0007870137924328446)
+Variable containing:
+1.00000e-04 *
+  7.8701
+[torch.FloatTensor of size 1]
+
+(472, 0.0007756933337077498)
+Variable containing:
+1.00000e-04 *
+  7.7569
+[torch.FloatTensor of size 1]
+
+(473, 0.0007645399891771376)
+Variable containing:
+1.00000e-04 *
+  7.6454
+[torch.FloatTensor of size 1]
+
+(474, 0.000753553700633347)
+Variable containing:
+1.00000e-04 *
+  7.5355
+[torch.FloatTensor of size 1]
+
+(475, 0.0007427355740219355)
+Variable containing:
+1.00000e-04 *
+  7.4274
+[torch.FloatTensor of size 1]
+
+(476, 0.0007320475997403264)
+Variable containing:
+1.00000e-04 *
+  7.3205
+[torch.FloatTensor of size 1]
+
+(477, 0.0007215401856228709)
+Variable containing:
+1.00000e-04 *
+  7.2154
+[torch.FloatTensor of size 1]
+
+(478, 0.000711156870238483)
+Variable containing:
+1.00000e-04 *
+  7.1116
+[torch.FloatTensor of size 1]
+
+(479, 0.0007009503315202892)
+Variable containing:
+1.00000e-04 *
+  7.0095
+[torch.FloatTensor of size 1]
+
+(480, 0.0006908771465532482)
+Variable containing:
+1.00000e-04 *
+  6.9088
+[torch.FloatTensor of size 1]
+
+(481, 0.0006809420883655548)
+Variable containing:
+1.00000e-04 *
+  6.8094
+[torch.FloatTensor of size 1]
+
+(482, 0.0006711558671668172)
+Variable containing:
+1.00000e-04 *
+  6.7116
+[torch.FloatTensor of size 1]
+
+(483, 0.0006615137099288404)
+Variable containing:
+1.00000e-04 *
+  6.6151
+[torch.FloatTensor of size 1]
+
+(484, 0.0006520022288896143)
+Variable containing:
+1.00000e-04 *
+  6.5200
+[torch.FloatTensor of size 1]
+
+(485, 0.0006426377221941948)
+Variable containing:
+1.00000e-04 *
+  6.4264
+[torch.FloatTensor of size 1]
+
+(486, 0.0006334009813144803)
+Variable containing:
+1.00000e-04 *
+  6.3340
+[torch.FloatTensor of size 1]
+
+(487, 0.0006243023090064526)
+Variable containing:
+1.00000e-04 *
+  6.2430
+[torch.FloatTensor of size 1]
+
+(488, 0.0006153212743811309)
+Variable containing:
+1.00000e-04 *
+  6.1532
+[torch.FloatTensor of size 1]
+
+(489, 0.0006064712652005255)
+Variable containing:
+1.00000e-04 *
+  6.0647
+[torch.FloatTensor of size 1]
+
+(490, 0.0005977621185593307)
+Variable containing:
+1.00000e-04 *
+  5.9776
+[torch.FloatTensor of size 1]
+
+(491, 0.0005891766049899161)
+Variable containing:
+1.00000e-04 *
+  5.8918
+[torch.FloatTensor of size 1]
+
+(492, 0.0005806966801173985)
+Variable containing:
+1.00000e-04 *
+  5.8070
+[torch.FloatTensor of size 1]
+
+(493, 0.0005723533686250448)
+Variable containing:
+1.00000e-04 *
+  5.7235
+[torch.FloatTensor of size 1]
+
+(494, 0.0005641269963234663)
+Variable containing:
+1.00000e-04 *
+  5.6413
+[torch.FloatTensor of size 1]
+
+(495, 0.0005560246063396335)
+Variable containing:
+1.00000e-04 *
+  5.5602
+[torch.FloatTensor of size 1]
+
+(496, 0.0005480421241372824)
+Variable containing:
+1.00000e-04 *
+  5.4804
+[torch.FloatTensor of size 1]
+
+(497, 0.0005401564412750304)
+Variable containing:
+1.00000e-04 *
+  5.4016
+[torch.FloatTensor of size 1]
+
+(498, 0.0005323897348716855)
+Variable containing:
+1.00000e-04 *
+  5.3239
+[torch.FloatTensor of size 1]
+
+(499, 0.000524737813975662)
+Variable containing:
+1.00000e-04 *
+  5.2474
+[torch.FloatTensor of size 1]
+
+('predict (after training)', 4, 7.973667144775391)
